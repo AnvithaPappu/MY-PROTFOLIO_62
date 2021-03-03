@@ -1,0 +1,23 @@
+#app {
+    width: 100%;
+    height: 800px;
+    background-color: aliceblue;
+}
+
+.container
+{
+    text-align: center;
+}
+#carousel1{
+    background-color: cadetblue;
+}
+#carousel1 img{
+    height: 300px;
+    margin-top: 35px;
+}
+.carousel-inner p{
+    margin-bottom: 50px;
+    margin-top: 50px
+    color: white;
+    font-size: 20px;
+}
